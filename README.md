@@ -50,10 +50,10 @@ Here are some screenshots of the Carbon Map JS Web App .L1 project in action:
 
 ### Home Page
 
-![Image](https://github.com/user-attachments/assets/dc317d7f-2e75-4423-b034-5e348cffde79)
+![Image](https://github.com/user-attachments/assets/a09aa781-2d80-450d-b663-919406098a1a)
 
 ### Fuel Details Modal
 
-![Image](https://github.com/user-attachments/assets/e56d6350-b915-43f3-afaa-ed196aa0a8c5)
+![Image](https://github.com/user-attachments/assets/2ed499fb-599a-4705-8f7d-6ad7fa1ea2fb)
 
 Thank you for using Carbon Map JS Web App .L1!
