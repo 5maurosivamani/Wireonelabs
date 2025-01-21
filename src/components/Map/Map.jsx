@@ -39,7 +39,7 @@ function Map({ carbonData }) {
 
       // Use ReactDOM.createRoot to render React component
       const root = ReactDOM.createRoot(popupContent);
-      root.render(<Popup data={generationMix} />);
+      root.render(<Popup data={generationMix} country={countryName} />);
       // Attach the rendered component to the popup
       layer.bindPopup(popupContent, { maxWidth: 500 });
     }
